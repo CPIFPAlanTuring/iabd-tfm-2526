@@ -27,7 +27,8 @@ Cada grupo debe cumplimentar la siguiente tabla:
 | Grupo | Primer integrante           |     Segundo integrante               |         Tercer integrante         |         Cuarto integrante    | Título del TFM (enlazado al repositorio) |
 |:-----:|:---------------------------:|:------------------------------------:|:---------------------------------:|:----------------------------:|:----------------------------------------:|
 |   1   |                             |                                      |                                   |                              |        [Título](enlace al repo)          |
-|   2   |                             |                                      |                                   |                              |        [Título](enlace al repo)          | |   3   |                             |                                      |                                   |                              |        [Título](enlace al repo)          |
+|   2   |                             |                                      |                                   |                              |        [Título](enlace al repo)          |
+|   3   |                             |                                      |                                   |                              |        [Título](enlace al repo)          |
 |   4   |                             |                                      |                                   |                              |        [Título](enlace al repo)          |
 |   5   |                             |                                      |                                   |                              |        [Título](enlace al repo)          |
 
@@ -95,9 +96,8 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 
 ## 📍 Lugar de las exposiciones<a name="id6"></a>
 
-Las exposiciones tendrán lugar en las oficinas de Accenture(https://maps.app.goo.gl/SLzMQwrNu2CM4mvL6).
-
-<img src="https://a.mktgcdn.com/p/rahf5ktEglvh4WE5ZxS7YG1HtX8Bm8YWr0Woq_gB8Og/2660x1779.jpg">
+Las exposiciones tendrán lugar en el [Centro Andaluz de Innovación en FP](https://maps.app.goo.gl/76gG6hjKHNgJCw4w6) sito en C/ Pierre Laffitte, 6
+29590 Málaga.
 
 ### :calendar: Jueves 6 de marzo de 2026 ❌ EVENTO CANCELADO ❌
 
