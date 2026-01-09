@@ -24,18 +24,12 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 Cada grupo debe cumplimentar la siguiente tabla:
 
-| Grupo | Primer integrante           |     Segundo integrante               |         Tercer integrante         | Título del TFM |                        Enlace al repositorio                         |
-|:-----:|:---------------------------:|:------------------------------------:|:---------------------------------:|:--------------:|:--------------------------------------------------------------------:|
-|   1   | López Muñoz, Carlos         | Perogil Fernández, Adrián            |  Fernández Barrionuevo, Alejandro |  InnerVisionAI | [Enlace](https://github.com/imchopi/InnerVisionAI)                   |
-|   2   | Ramírez Vaquero, Daniel     | Del Rosal Aguirre, Tristán Enrique   |  Mata Rodríguez, Yeray            |  TradeMind     | [Enlace 🌐](https://github.com/DaniRamirezVaquero/TradeMind_public)  |
-|   3   | García Antona, José Antonio | Bermúdez Gallego, Oscar              |  Nievas López, Darío              | DIAgnosis      | [Enlace 🔊](https://github.com/Darnielop/TFM)                        |
-|   4   | Peralta Muñoz, Hugo         | Ruiz Toledo, Jesús                   |  Bravo Casermeiro, Borja          |  MentorAI      | [Enlace 🎓](https://github.com/Pykoncio/VisionRL)                   |
-|   5   | García Estévez, Germán      | Moreno Cerezo, David                 |                                   |  AsistencIA    | [Enlace 🚨](https://github.com/germangarest/TFM-AsistencIA)         |
-|   6   | García Estévez, Marcos      | Aceituno Valero, Jesús               |                                   |  MIDAS         | [Enlace 🪙](https://github.com/warc0s/MIDAS)                        |
-|   7   | García Muñoz, Pablo         | Andrades Bueno, Jairo                |                                   |  ButterflAI    | [Enlace 🦋](https://github.com/PabloGM1204/ButterflAI)              |
-|   8   | Pilkington González, Natalie|                                      |                                   |  BrainSight-AI | [Enlace 🧠](https://github.com/napilkington/BrainSight-AI)              |
-
-
+| Grupo | Primer integrante           |     Segundo integrante               |         Tercer integrante         |         Cuarto integrante    | Título del TFM (enlazado al repositorio) |
+|:-----:|:---------------------------:|:------------------------------------:|:---------------------------------:|:----------------------------:|:----------------------------------------:|
+|   1   |                             |                                      |                                   |                              |        [Título](enlace al repo)          |
+|   2   |                             |                                      |                                   |                              |        [Título](enlace al repo)          | |   3   |                             |                                      |                                   |                              |        [Título](enlace al repo)          |
+|   4   |                             |                                      |                                   |                              |        [Título](enlace al repo)          |
+|   5   |                             |                                      |                                   |                              |        [Título](enlace al repo)          |
 
 ## Requisitos y criterios<a name="id2"></a>
 
