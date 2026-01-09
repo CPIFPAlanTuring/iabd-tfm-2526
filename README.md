@@ -119,9 +119,9 @@ Para el alumnado que no haya superado la fase inicial.
 * Exposiciones generales: lunes 26 de mayo a las 12:45h
 * Duración: 20 minutos.
 
-| Nombre completo           |  Título del TFM |    Enlace al repositorio    |
-|:-------------------------:|:--------------:|:----------------------------:|
-| Sánchez Martínez José     |    WineScan    |       [Enlace](https://github.com/jimmysm1995/wine-label-scanner)             |
+| Nombre completo           |  Título del TFM enlazado al repositorio   |
+|:-------------------------:|:-----------------------------------------:|
+|                           |   [Título]()                              |
 
 ## 📝 Evaluación del TFM<a name="id7"></a>
 
