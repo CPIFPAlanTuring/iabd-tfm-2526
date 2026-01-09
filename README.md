@@ -26,7 +26,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 
 | Grupo | Primer integrante           |     Segundo integrante               |         Tercer integrante         |         Cuarto integrante    | Título del TFM (enlazado al repositorio) |
 |:-----:|:---------------------------:|:------------------------------------:|:---------------------------------:|:----------------------------:|:----------------------------------------:|
-|   1   | Elías Robles Ruíz           |    Cristina Vacas López         |   Ruyi Xia Ye           |        [SmartEatProject](https://github.com/SmartEatProject)                        |
+|   1   | Elías Robles Ruíz           |    Cristina Vacas López              |   Ruyi Xia Ye                     |                              |   [SmartEatAI](https://github.com/SmartEatProject)
 |   2   |                             |                                      |                                   |                              |        [Título]()                        |
 |   3   |                             |                                      |                                   |                              |        [Título]()                        |
 |   4   |                             |                                      |                                   |                              |        [Título]()                        |
