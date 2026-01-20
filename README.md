@@ -70,12 +70,10 @@ El repositorio debe contener lo siguiente:
 
 ## Fechas a tener en cuenta<a name="id4"></a>
 
-* Sorteo de parejas y explicación del TFM: miércoles 19 de diciembre de 2025.
-* Comienzo del proyecto: lunes 17 de febrero de 2026.
-* Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 17 de febrero de 2026.
-* Fecha límite para subir todo el material que se pide sobre el TFM: lunes 3 de marzo de 2026 a las 23:59h.
-* Exposiciones generales: martes 4 de marzo de 2026
-* Exposiciones para Accenture: por determinar (previsiblemente el jueves 6 de marzo)
+* Sorteo de parejas y explicación del TFM: miércoles 18 de diciembre de 2025.
+* Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 16 de febrero de 2026.
+* Fecha límite para subir todo el material que se pide sobre el TFM: viernes 6 de marzo de 2026 a las 23:59h.
+* Exposiciones generales: lunes 9 de marzo de 2026.
 
 ## Cuadrante horario de las exposiciones<a name="id5"></a>
 
@@ -83,31 +81,19 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 
 ### :calendar: martes 4 de marzo de 2026
 
-* 09:15h - 09:35h - Grupo 1
-* 09:40h - 10:00h - Grupo 2
-* 10:05h - 10:26h - Grupo 3
-* 10:30h - 10:50h - Grupo 4
-* 10:55h - 11:15h - Grupo 5
-* 11:15h - 11:45h - 🥪 D E S A Y U N O ☕
-* 11:45h - 12:05h - Grupo 6
-* 12:10h - 12:30h - Grupo 7
-* 12:35h - 12:55h - Grupo 8
-
+* 09:30h - 09:50h - Grupo 1
+* 09:55h - 10:15h - Grupo 2
+* 10:20h - 10:40h - Grupo 3
+* 10:45h - 11:05h - Grupo 4
+* 11:10h - 11:30h - Grupo 5
 
 ## 📍 Lugar de las exposiciones<a name="id6"></a>
 
+<!--
 Las exposiciones tendrán lugar en el [Centro Andaluz de Innovación en FP](https://maps.app.goo.gl/76gG6hjKHNgJCw4w6) sito en C/ Pierre Laffitte, 6
 29590 Málaga.
+-->
 
-### :calendar: Jueves 6 de marzo de 2026 ❌ EVENTO CANCELADO ❌
-
-Exposición de los tres mejores TFM a Accenture.
-
-La duración de cada exposición será de 20 minutos (15 de exposición y 5 o 10 de preguntas).
-
-* 11:00h - 11:20h 🏅 Grupo seleccionado 1
-* 11:20h - 11:40h 🏅 Grupo seleccionado 2
-* 11:40h - 12:00h 🏅 Grupo seleccionado 3
 
 ## 🗓️  🚧 🏗️ 👷‍♂️ PERIODO EXTRAORDINARIO: Fechas a tener en cuenta<a name="id4"></a>
 
