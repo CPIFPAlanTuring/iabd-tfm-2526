@@ -79,7 +79,7 @@ El repositorio debe contener lo siguiente:
 
 La duración de cada exposición será de 20 minutos (15 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Todos los alumnos deberán estar presentes desde las 9:15h
 
-### :calendar: martes 4 de marzo de 2026
+### :calendar: lunes 9 de marzo de 2026
 
 * 09:30h - 09:50h - Grupo 1
 * 09:55h - 10:15h - Grupo 2
