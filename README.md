@@ -27,9 +27,9 @@ Cada grupo debe cumplimentar la siguiente tabla:
 | Grupo | Primer integrante           |     Segundo integrante               |         Tercer integrante         |         Cuarto integrante    | Título del TFM (enlazado al repositorio) |
 |:-----:|:---------------------------:|:------------------------------------:|:---------------------------------:|:----------------------------:|:----------------------------------------:|
 |   1   | Elías Robles Ruíz           |    Cristina Vacas López              |   Ruyi Xia Ye                     |                              |   [SmartEatAI](https://github.com/SmartEatAI)
-|   2   | Alejandro Barrionuevo Rosado   | Alvaro López Guerrero             |   Andrei Munteanu Popa            |                              |   [Latency Zero](https://github.com/Latency-Zero-tfm/Latency-Zero)                        |
+|   2   |                             |                                      |                                   |                              |        [Título]()                        |
 |   3   |                             |                                      |                                   |                              |        [Título]()                        |
-|   4   |                             |                                      |                                   |                              |        [Título]()                        |
+|   4   | Alejandro Barrionuevo Rosado   | Alvaro López Guerrero             |   Andrei Munteanu Popa            |                              |   [LatencyZero](https://github.com/Latency-Zero-tfm/LatencyZero)                        |
 |   5   |                             |                                      |                                   |                              |        [Título]()                        |
 
 ## Requisitos y criterios<a name="id2"></a>
