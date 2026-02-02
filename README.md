@@ -96,7 +96,7 @@ Las exposiciones tendrán lugar en el [Centro Andaluz de Innovación en FP](http
 Las exposiciones tendrán lugar en [Accenture](https://maps.app.goo.gl/E9HEBZgV5SaQmExNA) sita en C/ Pierre Laffitte, 6
 29590 Málaga.
 
-
+<!--
 ## 🗓️  🚧 🏗️ 👷‍♂️ PERIODO EXTRAORDINARIO: Fechas a tener en cuenta<a name="id4"></a>
 
 Para el alumnado que no haya superado la fase inicial.
@@ -111,10 +111,14 @@ Para el alumnado que no haya superado la fase inicial.
 |:-------------------------:|:-----------------------------------------:|
 |                           |   [Título]()                              |
 
+-->
+
 ## 📝 Evaluación del TFM<a name="id7"></a>
 
 Se tendrá en cuenta en la nota el porcentaje que cada grupo haya asignado a cada uno de sus integrantes para repartir la calificación.
 
+<!--
 Para la elección de los tres mejores proyectos que se expondrán a Accenture se tienen en cuenta los votos de los alumnos de forma individual con un 30% de peso y los votos de los profesores con un 70% de peso. Un alumno no puede votar por su propio equipo.
+-->
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
