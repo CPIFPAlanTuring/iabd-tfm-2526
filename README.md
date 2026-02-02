@@ -50,7 +50,8 @@ Se deben incluir los siguientes apartados:
 6. Entrenamiento del modelo y comprobación del rendimiento.  Se entrenarán uno o varios modelos, comprobando en cada caso el rendimiento que ofrecen mediante las apropiadas medidas de error y/o acierto.
 7. Se tiene que incluir alguna de las técnicas estudiadas en el tema de Procesamiento de Lenguaje Natural: expresiones regulares, tokenización, generación de texto, análisis de sentimientos, etc.
 8. Se debe realizar también una aplicación web que haga uso del modelo entrenado.
-9. Conclusiones. Se expondrán las conclusiones que se han obtenido en la realización del TFM.
+9. La inclusión en el proyecto de IA agéntica es opcional, no obstante, se valorará positivamente su uso.
+10. Conclusiones. Se expondrán las conclusiones que se han obtenido en la realización del TFM.
 
 Se pueden usar modelos preentrenados para alguna/s sección/es del trabajo. Pero eso no exhime de la preparación, entrenamiento y uso de modelos de ML como se ha visto en clase.
 
