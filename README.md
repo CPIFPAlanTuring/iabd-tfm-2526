@@ -8,7 +8,7 @@
 
 # Trabajos Fin de Máster - Curso 2025 / 2026
 
-En este repositorio se encuentra centralizada toda la información relativa a los **Trabajos Fin de Máster del Curso de Especialización en Inteligencia Artificial y Big Data del CPIFP Alan Turing**, en la convocatoria del curso 2025 / 2026.
+En este repositorio se encuentra centralizada toda la información relativa a los **Trabajos Fin de Máster del Curso de Especialización en Inteligencia Artificial y Big Data del CPIFP Alan Turing**, en la convocatoria del curso 2025-2026.
 
 ## Índice
 
@@ -29,7 +29,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   1   | Elías Robles Ruíz           |    Cristina Vacas López              |   Ruyi Xia Ye                     |                              |   [SmartEatAI](https://github.com/SmartEatAI)
 |   2   |                             |                                      |                                   |                              |        [Título]()                        |
 |   3   |                             |                                      |                                   |                              |        [Título]()                        |
-|   4   | Alejandro Barrionuevo Rosado   | Alvaro López Guerrero             |   Andrei Munteanu Popa            |                              |   [LatencyZero](https://github.com/Latency-Zero-tfm/LatencyZero)                        |
+|   4   | Alejandro Barrionuevo Rosado   | Alvaro López Guerrero             |   Andrei Munteanu Popa            |                              | [LatencyZero](https://github.com/Latency-Zero-tfm/LatencyZero) |
 |   5   |                             |                                      |                                   |                              |        [Título]()                        |
 
 ## Requisitos y criterios<a name="id2"></a>
