@@ -78,7 +78,7 @@ El repositorio debe contener lo siguiente:
 
 ## Cuadrante horario de las exposiciones<a name="id5"></a>
 
-La duración de cada exposición será de 20 minutos (15 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Todos los alumnos deberán estar presentes desde las 9:15h
+La duración de cada exposición será de 20 minutos (15 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Todos los alumnos deberán estar presentes desde el principio de las exposiciones.
 
 ### :calendar: lunes 9 de marzo de 2026
 
@@ -91,9 +91,10 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 ## 📍 Lugar de las exposiciones<a name="id6"></a>
 
 <!--
-Las exposiciones tendrán lugar en el [Centro Andaluz de Innovación en FP](https://maps.app.goo.gl/76gG6hjKHNgJCw4w6) sito en C/ Pierre Laffitte, 6
-29590 Málaga.
+Las exposiciones tendrán lugar en el [Centro Andaluz de Innovación en FP](https://maps.app.goo.gl/E9HEBZgV5SaQmExNA) sita en C/ Severo Ochoa, 21, 29590, PTA (Málaga).
 -->
+Las exposiciones tendrán lugar en [Accenture](https://maps.app.goo.gl/76gG6hjKHNgJCw4w6) sita en C/ Pierre Laffitte, 6
+29590 Málaga.
 
 
 ## 🗓️  🚧 🏗️ 👷‍♂️ PERIODO EXTRAORDINARIO: Fechas a tener en cuenta<a name="id4"></a>
