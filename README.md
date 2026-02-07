@@ -1,4 +1,4 @@
-<img height="160px" src="img/capifp_logo.jpeg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="80px" src="img/alan_turing_recortado.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="img/accenture.svg">
+<img height="160px" src="img/capifp_logo.jpeg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="80px" src="img/alan_turing_recortado.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="img/accenture.svg">
 
 # Trabajos Fin de Máster - Curso 2025 / 2026
 
