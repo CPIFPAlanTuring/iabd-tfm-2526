@@ -24,7 +24,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   2   |                             |                                      |                                   |                              |        [Título]()                        |
 |   3   |                             |                                      |                                   |                              |        [Título]()                        |
 |   4   | Alejandro Barrionuevo Rosado   | Alvaro López Guerrero             |   Andrei Munteanu Popa            |                              | [LatencyZero](https://github.com/Latency-Zero-tfm/LatencyZero) |
-|   5   |                             |                                      |                                   |                              |        [Título]()                        |
+|   5   |   Antonio Delgado Rodríguez   |  Manuel Dueñas Cortés  |  Alejandro Gálvez Madueño   |   Jesús Herrera Sánchez  |        [InnerWork](https://github.com/InnerWorkAI)                        |
 
 ## Requisitos y criterios<a name="id2"></a>
 
