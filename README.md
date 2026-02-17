@@ -21,7 +21,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 | Grupo | Primer integrante           |     Segundo integrante               |         Tercer integrante         |         Cuarto integrante    | Título del TFM (enlazado al repositorio) |
 |:-----:|:---------------------------:|:------------------------------------:|:---------------------------------:|:----------------------------:|:----------------------------------------:|
 |   1   |  Carlos Cerezo López        |    Victor Jiménez Guerrero           |    Enrique Moreno Alcántara       |   Denisa Ramona Belean       |        [PawSense](https://github.com/denibel04/PawSense)                        |
-|   2   |                             |                                      |                                   |                              |        [Título]()                        |
+|   2   |  Ismael Sihammou Anahnah    |    Juan francisco Chacón Macías      |    Ismael Guerrero Martín         |                              |        [StyleMePal](https://github.com/TFM-OUTFIT-IA/stylemepal)                        |
 |   3   |   Elías Robles Ruíz         |    Cristina Vacas López              |        Ruyi Xia Ye                |                              | [SmartEatAI](https://github.com/SmartEatAI)|
 |   4   | Alejandro Barrionuevo Rosado   | Alvaro López Guerrero             |   Andrei Munteanu Popa            |                              | [LatencyZero](https://github.com/Latency-Zero-tfm/LatencyZero) |
 |   5   |   Antonio Delgado Rodríguez   |  Manuel Dueñas Cortés  |  Alejandro Gálvez Madueño   |   Jesús Herrera Sánchez  |        [InnerWork](https://github.com/InnerWorkAI)                        |
